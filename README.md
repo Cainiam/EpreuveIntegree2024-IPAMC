@@ -28,6 +28,6 @@ Le client (utilisateur connecté) peut gérer un "profil", réaliser des payemen
 * Jira (pour Kanban board)
 * Hébergement via Hostinger pour les tests du jury
 
-## Composition du dépôt :
-* Dossier "remise" - dossier de l'épreuve intégrée, errata remis lors de l'oral et slides utilisée lors de l'oral.
+## Composition du dépôt GitHub :
+* Dossier "remises" - dossier de l'épreuve intégrée, errata remis lors de l'oral et slides utilisée lors de l'oral.
 * Dossier "rokuban" - site web.
