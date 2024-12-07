@@ -19,9 +19,9 @@ Le client (utilisateur connecté) peut gérer un "profil", réaliser des payemen
 ## "Techonologies" utilisée :
 * Visual Studio Code
 * Laravel 11.x LTS avec les composants :
- * Laravel Breeze-Livewire (Tailwind CSS inclus) - Créé un premier jet d'interface utilisateur : profil / login / register.
- * Barryvdh/laravel-dompdf - Permet de créer des PDF via des vues HTML.
- * Skrmlive/laravel-paypal - Permet de simplifier la mise en place des paiements avec PayPal.
+  - Laravel Breeze-Livewire (Tailwind CSS inclus) - Créé un premier jet d'interface utilisateur : profil / login / register.
+  - Barryvdh/laravel-dompdf - Permet de créer des PDF via des vues HTML.
+  - Skrmlive/laravel-paypal - Permet de simplifier la mise en place des paiements avec PayPal.
 * Composer 2.6.6
 * PHP 8.3 (Laravel 11 nécessite PHP > 8.2 !)
 * Autres pré-requis de Laravel 11
