@@ -29,5 +29,5 @@ Le client (utilisateur connecté) peut gérer un "profil", réaliser des payemen
 * Hébergement via Hostinger pour les tests du jury
 
 ## Composition du dépôt :
-* Dossier "rokuban" - site web.
 * Dossier "remise" - dossier de l'épreuve intégrée, errata remis lors de l'oral et slides utilisée lors de l'oral.
+* Dossier "rokuban" - site web.
