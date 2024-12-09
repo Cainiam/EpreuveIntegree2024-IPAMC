@@ -31,3 +31,9 @@ Le client (utilisateur connecté) peut gérer un "profil", réaliser des payemen
 ## Composition du dépôt GitHub :
 * Dossier "remises" - dossier de l'épreuve intégrée, errata remis lors de l'oral et slides utilisée lors de l'oral.
 * Dossier "rokuban" - site web.
+
+## Modalité de tests en local :
+* Récupérer le git en ligne de commande ou via le site.
+* Dans le dossier "rokuban" -> ouvrir un invite de commande et exécuter la commande "php artisan serve".
+* Le site est accessible sur 127.0.0.1:8000 via votre navigateur.
+
