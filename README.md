@@ -36,4 +36,3 @@ Le client (utilisateur connecté) peut gérer un "profil", réaliser des payemen
 * Récupérer le git en ligne de commande ou via le site.
 * Dans le dossier "rokuban" -> ouvrir un invite de commande et exécuter la commande "php artisan serve".
 * Le site est accessible sur 127.0.0.1:8000 via votre navigateur.
-
